@@ -1,0 +1,9 @@
+/**/*.feature.cs
+/.project
+/**/bin/
+/**/obj/
+/**/out/
+/**/.vs*
+/**/*.user
+packages
+
